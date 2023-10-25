@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Json_PlaceHolder/static/css/main.4d440418.css",
+    "main.js": "/Json_PlaceHolder/static/js/main.d433eea4.js",
+    "index.html": "/Json_PlaceHolder/index.html",
+    "main.4d440418.css.map": "/Json_PlaceHolder/static/css/main.4d440418.css.map",
+    "main.d433eea4.js.map": "/Json_PlaceHolder/static/js/main.d433eea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d440418.css",
+    "static/js/main.d433eea4.js"
+  ]
+}
